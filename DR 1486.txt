@@ -1,0 +1,423 @@
+Year: 1486
+Moons: Selûne
+
+Hammer (Deep Winter)
+
+     1  First-day   (    Eclipse of Selûne
+     2  Second-day   -   
+     3  Third-day    -   
+     4  Fourth-day   -   
+     5  Fifth-day    -   
+     6  Sixth-day     )  
+     7  Seventh-da    )  
+     8  Eighth-day    )  
+     9  Ninth-day     )  Comet appears
+    10  Tenth-day    [)  
+
+    11  First-day    [)  
+    12  Second-day   [)  
+    13  Third-day    [)  
+    14  Fourth-day  +[)  Aurora
+    15  Fifth-day   +[)  
+    16  Sixth-day   +[)  
+    17  Seventh-da  (+)  
+    18  Eighth-day  (+)  
+    19  Ninth-day   (+)  
+    20  Tenth-day   (+)  Morning star
+
+    21  First-day   (]+  Morning star
+    22  Second-day  (]+  Shooting star
+    23  Third-day   (]+  
+    24  Fourth-day  (]+  
+    25  Fifth-day   (]   Aurora
+    26  Sixth-day   (]   Aurora
+    27  Seventh-da  (]   Aurora
+    28  Eighth-day  (]   
+    29  Ninth-day   (    Shooting star
+    30  Tenth-day   (    
+
+Alturiak (The Claw of Winter)
+
+     1  First-day   (    
+     2  Second-day   -   Evening star
+     3  Third-day    -   
+     4  Fourth-day   -   
+     5  Fifth-day    -   Evening star
+     6  Sixth-day     )  
+     7  Seventh-da    )  
+     8  Eighth-day    )  
+     9  Ninth-day     )  
+    10  Tenth-day    [)  
+
+    11  First-day    [)  
+    12  Second-day   [)  
+    13  Third-day    [)  
+    14  Fourth-day  +[)  
+    15  Fifth-day   +[)  Shooting star
+    16  Sixth-day   +[)  
+    17  Seventh-da  (+)  
+    18  Eighth-day  (+)  Shooting star
+    19  Ninth-day   (+)  Shooting star
+    20  Tenth-day   (+)  Eclipse of Selûne
+
+    21  First-day   (]+  
+    22  Second-day  (]+  
+    23  Third-day   (]+  
+    24  Fourth-day  (]+  Meteor shower
+    25  Fifth-day   (]   Shooting star
+    26  Sixth-day   (]   
+    27  Seventh-da  (]   
+    28  Eighth-day  (]   Solar eclipse
+    29  Ninth-day   (    
+    30  Tenth-day   (    
+
+Ches (The Claw of Sunsets)
+
+     1  First-day   (    Comet appears
+     2  Second-day   -   
+     3  Third-day    -   Shooting star
+     4  Fourth-day   -   Shooting star
+     5  Fifth-day    -   Meteor shower
+     6  Sixth-day     )  
+     7  Seventh-da    )  
+     8  Eighth-day    )  Shooting star
+     9  Ninth-day     )  
+    10  Tenth-day    [)  
+
+    11  First-day    [)  
+    12  Second-day   [)  Evening star
+    13  Third-day    [)  Shooting star
+    14  Fourth-day  +[)  
+    15  Fifth-day   +[)  Comet appears
+    16  Sixth-day   +[)  
+    17  Seventh-da  (+)  
+    18  Eighth-day  (+)  
+    19  Ninth-day   (+)  
+    20  Tenth-day   (+)  Shooting star
+
+    21  First-day   (]+  
+    22  Second-day  (]+  Meteor shower
+    23  Third-day   (]+  
+    24  Fourth-day  (]+  Evening star
+    25  Fifth-day   (]   Morning star
+    26  Sixth-day   (]   
+    27  Seventh-da  (]   Wanderers gather
+    28  Eighth-day  (]   Aurora
+    29  Ninth-day   (    
+    30  Tenth-day   (    Aurora
+
+Tarsakh (The Claw of Storms)
+
+     1  First-day   (    
+     2  Second-day   -   Morning star
+     3  Third-day    -   
+     4  Fourth-day   -   
+     5  Fifth-day    -   
+     6  Sixth-day     )  
+     7  Seventh-da    )  
+     8  Eighth-day    )  
+     9  Ninth-day     )  
+    10  Tenth-day    [)  Evening star
+
+    11  First-day    [)  Morning star
+    12  Second-day   [)  Shooting star
+    13  Third-day    [)  
+    14  Fourth-day  +[)  
+    15  Fifth-day   +[)  
+    16  Sixth-day   +[)  
+    17  Seventh-da  (+)  
+    18  Eighth-day  (+)  
+    19  Ninth-day   (+)  
+    20  Tenth-day   (+)  
+
+    21  First-day   (]+  Evening star
+    22  Second-day  (]+  Evening star
+    23  Third-day   (]+  
+    24  Fourth-day  (]+  Morning star
+    25  Fifth-day   (]   
+    26  Sixth-day   (]   
+    27  Seventh-da  (]   Shooting star
+    28  Eighth-day  (]   Evening star
+    29  Ninth-day   (    
+    30  Tenth-day   (    
+
+Mirtul (The Melting)
+
+     1  First-day   (    
+     2  Second-day   -   Morning star
+     3  Third-day    -   Shooting star
+     4  Fourth-day   -   
+     5  Fifth-day    -   Shooting star
+     6  Sixth-day     )  
+     7  Seventh-da    )  
+     8  Eighth-day    )  
+     9  Ninth-day     )  Shooting star
+    10  Tenth-day    [)  
+
+    11  First-day    [)  Fireball
+    12  Second-day   [)  
+    13  Third-day    [)  
+    14  Fourth-day  +[)  Aurora
+    15  Fifth-day   +[)  
+    16  Sixth-day   +[)  
+    17  Seventh-da  (+)  
+    18  Eighth-day  (+)  
+    19  Ninth-day   (+)  Morning star
+    20  Tenth-day   (+)  
+
+    21  First-day   (]+  
+    22  Second-day  (]+  
+    23  Third-day   (]+  Shooting star
+    24  Fourth-day  (]+  
+    25  Fifth-day   (]   Evening star
+    26  Sixth-day   (]   
+    27  Seventh-da  (]   
+    28  Eighth-day  (]   
+    29  Ninth-day   (    Shooting star
+    30  Tenth-day   (    Wanderers gather
+
+Kythorn (The Time of Flowers)
+
+     1  First-day   (    
+     2  Second-day   -   Eclipse of Selûne
+     3  Third-day    -   Eclipse of Selûne
+     4  Fourth-day   -   
+     5  Fifth-day    -   
+     6  Sixth-day     )  
+     7  Seventh-da    )  
+     8  Eighth-day    )  
+     9  Ninth-day     )  
+    10  Tenth-day    [)  
+
+    11  First-day    [)  
+    12  Second-day   [)  
+    13  Third-day    [)  Shooting star
+    14  Fourth-day  +[)  
+    15  Fifth-day   +[)  
+    16  Sixth-day   +[)  
+    17  Seventh-da  (+)  
+    18  Eighth-day  (+)  
+    19  Ninth-day   (+)  
+    20  Tenth-day   (+)  
+
+    21  First-day   (]+  Morning star
+    22  Second-day  (]+  
+    23  Third-day   (]+  Morning star
+    24  Fourth-day  (]+  
+    25  Fifth-day   (]   Shooting star
+    26  Sixth-day   (]   
+    27  Seventh-da  (]   Aurora
+    28  Eighth-day  (]   
+    29  Ninth-day   (    Fireball
+    30  Tenth-day   (    
+
+Flamerule (Summertide)
+
+     1  First-day   (    
+     2  Second-day   -   Fireball
+     3  Third-day    -   Morning star
+     4  Fourth-day   -   Morning star
+     5  Fifth-day    -   Shooting star
+     6  Sixth-day     )  Shooting star
+     7  Seventh-da    )  
+     8  Eighth-day    )  
+     9  Ninth-day     )  Meteor shower
+    10  Tenth-day    [)  
+
+    11  First-day    [)  Eclipse of Selûne
+    12  Second-day   [)  Shooting star
+    13  Third-day    [)  Shooting star
+    14  Fourth-day  +[)  Shooting star
+    15  Fifth-day   +[)  
+    16  Sixth-day   +[)  
+    17  Seventh-da  (+)  
+    18  Eighth-day  (+)  
+    19  Ninth-day   (+)  
+    20  Tenth-day   (+)  
+
+    21  First-day   (]+  
+    22  Second-day  (]+  
+    23  Third-day   (]+  
+    24  Fourth-day  (]+  Morning star
+    25  Fifth-day   (]   Meteor shower
+    26  Sixth-day   (]   
+    27  Seventh-da  (]   Solar eclipse
+    28  Eighth-day  (]   Shooting star
+    29  Ninth-day   (    
+    30  Tenth-day   (    
+
+Eleasis (Highsun)
+
+     1  First-day   (    
+     2  Second-day   -   Eclipse of Selûne
+     3  Third-day    -   Shooting star
+     4  Fourth-day   -   
+     5  Fifth-day    -   
+     6  Sixth-day     )  
+     7  Seventh-da    )  Shooting star
+     8  Eighth-day    )  
+     9  Ninth-day     )  
+    10  Tenth-day    [)  
+
+    11  First-day    [)  Shooting star
+    12  Second-day   [)  
+    13  Third-day    [)  
+    14  Fourth-day  +[)  
+    15  Fifth-day   +[)  
+    16  Sixth-day   +[)  
+    17  Seventh-da  (+)  Solar eclipse
+    18  Eighth-day  (+)  
+    19  Ninth-day   (+)  Evening star
+    20  Tenth-day   (+)  
+
+    21  First-day   (]+  Evening star
+    22  Second-day  (]+  
+    23  Third-day   (]+  
+    24  Fourth-day  (]+  Shooting star
+    25  Fifth-day   (]   
+    26  Sixth-day   (]   Shooting star
+    27  Seventh-da  (]   Eclipse of Selûne
+    28  Eighth-day  (]   
+    29  Ninth-day   (    Evening star
+    30  Tenth-day   (    
+
+Eleint (The Fading)
+
+     1  First-day   (    
+     2  Second-day   -   
+     3  Third-day    -   
+     4  Fourth-day   -   
+     5  Fifth-day    -   
+     6  Sixth-day     )  
+     7  Seventh-da    )  
+     8  Eighth-day    )  Shooting star
+     9  Ninth-day     )  
+    10  Tenth-day    [)  Solar eclipse
+
+    11  First-day    [)  
+    12  Second-day   [)  Shooting star
+    13  Third-day    [)  Shooting star
+    14  Fourth-day  +[)  
+    15  Fifth-day   +[)  
+    16  Sixth-day   +[)  Solar eclipse
+    17  Seventh-da  (+)  Solar eclipse
+    18  Eighth-day  (+)  
+    19  Ninth-day   (+)  
+    20  Tenth-day   (+)  
+
+    21  First-day   (]+  Solar eclipse
+    22  Second-day  (]+  
+    23  Third-day   (]+  
+    24  Fourth-day  (]+  
+    25  Fifth-day   (]   
+    26  Sixth-day   (]   Wanderers gather
+    27  Seventh-da  (]   Shooting star
+    28  Eighth-day  (]   
+    29  Ninth-day   (    
+    30  Tenth-day   (    
+
+Marpenoth (Leaffall)
+
+     1  First-day   (    
+     2  Second-day   -   Eclipse of Selûne
+     3  Third-day    -   
+     4  Fourth-day   -   Morning star
+     5  Fifth-day    -   
+     6  Sixth-day     )  
+     7  Seventh-da    )  Morning star
+     8  Eighth-day    )  
+     9  Ninth-day     )  Evening star
+    10  Tenth-day    [)  
+
+    11  First-day    [)  
+    12  Second-day   [)  
+    13  Third-day    [)  
+    14  Fourth-day  +[)  
+    15  Fifth-day   +[)  
+    16  Sixth-day   +[)  
+    17  Seventh-da  (+)  Shooting star
+    18  Eighth-day  (+)  
+    19  Ninth-day   (+)  
+    20  Tenth-day   (+)  Fireball
+
+    21  First-day   (]+  Eclipse of Selûne
+    22  Second-day  (]+  
+    23  Third-day   (]+  
+    24  Fourth-day  (]+  
+    25  Fifth-day   (]   Morning star
+    26  Sixth-day   (]   
+    27  Seventh-da  (]   
+    28  Eighth-day  (]   Fireball
+    29  Ninth-day   (    Evening star
+    30  Tenth-day   (    
+
+Uktar (The Rotting)
+
+     1  First-day   (    
+     2  Second-day   -   
+     3  Third-day    -   
+     4  Fourth-day   -   
+     5  Fifth-day    -   
+     6  Sixth-day     )  
+     7  Seventh-da    )  
+     8  Eighth-day    )  
+     9  Ninth-day     )  Morning star
+    10  Tenth-day    [)  
+
+    11  First-day    [)  Morning star
+    12  Second-day   [)  Meteor shower
+    13  Third-day    [)  
+    14  Fourth-day  +[)  
+    15  Fifth-day   +[)  
+    16  Sixth-day   +[)  
+    17  Seventh-da  (+)  
+    18  Eighth-day  (+)  Solar eclipse
+    19  Ninth-day   (+)  
+    20  Tenth-day   (+)  
+
+    21  First-day   (]+  Eclipse of Selûne
+    22  Second-day  (]+  Fireball
+    23  Third-day   (]+  
+    24  Fourth-day  (]+  
+    25  Fifth-day   (]   
+    26  Sixth-day   (]   
+    27  Seventh-da  (]   
+    28  Eighth-day  (]   
+    29  Ninth-day   (    Shooting star
+    30  Tenth-day   (    
+
+Nightal (The Drawing Down)
+
+     1  First-day   (    
+     2  Second-day   -   
+     3  Third-day    -   
+     4  Fourth-day   -   
+     5  Fifth-day    -   
+     6  Sixth-day     )  
+     7  Seventh-da    )  Shooting star
+     8  Eighth-day    )  
+     9  Ninth-day     )  Shooting star
+    10  Tenth-day    [)  
+
+    11  First-day    [)  
+    12  Second-day   [)  
+    13  Third-day    [)  
+    14  Fourth-day  +[)  Shooting star
+    15  Fifth-day   +[)  
+    16  Sixth-day   +[)  
+    17  Seventh-da  (+)  
+    18  Eighth-day  (+)  
+    19  Ninth-day   (+)  
+    20  Tenth-day   (+)  
+
+    21  First-day   (]+  Shooting star
+    22  Second-day  (]+  
+    23  Third-day   (]+  
+    24  Fourth-day  (]+  
+    25  Fifth-day   (]   
+    26  Sixth-day   (]   Evening star
+    27  Seventh-da  (]   
+    28  Eighth-day  (]   Morning star
+    29  Ninth-day   (    
+    30  Tenth-day   (    
+
